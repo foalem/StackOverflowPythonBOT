@@ -1,0 +1,18 @@
+{
+    "name": "StackOverflowPythonBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "65351960-9e5c-11ea-92b0-8565c0796ec0",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Patrick\\source\\repos\\StackOverflowPythonBOT\\StackOverflowPythonBOT\\StackOverflowPythonBot.bot"
+}
